@@ -27,7 +27,7 @@ A sophisticated, context-aware search engine and personalized recommendation sys
 - **Backend**: Python 3.8+
 - **Web Framework**: Flask
 - **AI Integration**: Google Gemini API
-- **Search API**: Mouser Electronics API
+- **Search API**: Mouser Electronics API, Tried implementing ElevenLabs API
 - **Frontend**: HTML5, CSS3, JavaScript, Bootstrap 5
 - **Data Processing**: Pandas, NumPy, Scikit-learn
 - **Fuzzy Matching**: FuzzyWuzzy, Levenshtein
