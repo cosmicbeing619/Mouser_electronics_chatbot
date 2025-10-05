@@ -2,6 +2,10 @@
 
 A sophisticated, context-aware search engine and personalized recommendation system to help engineers and buyers quickly find the right electronic parts, even with partial or imprecise information.
 
+### Deployed Model Link
+
+-**Stremio Link** : https://the-gradient-decendants-chatbot.streamlit.app/
+
 ## Features
 
 ### 🔍 Intelligent Search Engine
