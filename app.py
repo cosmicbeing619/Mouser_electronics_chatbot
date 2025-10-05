@@ -71,7 +71,7 @@ st.markdown("<h1>✨ Electronics & Robotics Chatbot ✨</h1>", unsafe_allow_html
 
 # -------------------- Load API keys --------------------
 gemini_key = "AIzaSyBd09L0gVBmuaTiJ-S3o5jZiuE4zd5892k"
-mouser_key = os.getenv("MOUSER_API_KEY")
+mouser_key = "a165ac49-3ade-43bd-aa1b-885cecae1f48"
 
 if not gemini_key:
     st.error("❌ GEMINI_API_KEY not found.")
