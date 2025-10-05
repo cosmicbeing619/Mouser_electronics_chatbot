@@ -99,13 +99,11 @@ python test_mouser_search.py
 
 ```
 mouser-search-engine/
-├── mouser_search_engine.py    # Core search engine implementation
-├── app.py                     # Flask web application
-├── test_mouser_search.py      # Test suite
-├── requirements.txt           # Python dependencies
-├── templates/
-│   └── index.html            # Web interface template
-└── README.md                 # This file
+├── .env                      # Has API keys
+├── app.py                    # Main app deployed by streamlit
+├── chatbot.py                # Script which runs Gemini AI using API
+├── requirements.txt          # Python dependencies
+└── README.md                 # Readme files
 ```
 
 ## API Endpoints
