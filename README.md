@@ -297,3 +297,8 @@ For issues and questions:
 - [ ] Real-time price alerts
 - [ ] Component lifecycle tracking
 - [ ] Multi-language support
+
+## Contributors
+Neha Upadhye
+Nihal Malavalli Lokesh
+Kumar Mantha
